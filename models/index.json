@@ -1,0 +1,136 @@
+{
+  "shops": [[
+    {
+      "text": "荷兰豆",
+      "id": "01",
+      "price": 6.00,
+      "num": 0,
+      "imgUrl": "http://m.360buyimg.com/babel/s235x235_jfs/t3394/288/2078078588/377542/eff0f1a2/583d2d75N8f66d5d2.jpg!q50.jpg.webp",
+      "isShow": false
+    },
+    {
+      "text": "西红柿",
+      "id": "02",
+      "price": 4.00,
+      "num": 0,
+      "imgUrl": "http://m.360buyimg.com/babel/s235x235_jfs/t4237/72/338884735/326271/fabe0f8d/58b3c666N4d3ff37e.jpg!q50.jpg.webp",
+      "isShow": false
+    },
+    {
+      "text": "卷心菜",
+      "id": "03",
+      "price": 8.00,
+      "num": 0,
+      "imgUrl": "http://m.360buyimg.com/babel/s317x317_jfs/t3091/35/7287733060/131229/5a70033d/58b59293N13ac58cc.jpg!q50.jpg.webp",
+      "isShow": false
+    },
+    {
+      "text": "白萝卜",
+      "id": "04",
+      "price": 10.00,
+      "num": 0,
+      "imgUrl": "http://m.360buyimg.com/babel/s235x235_jfs/t3526/125/1966614374/63080/c4f41283/58396d0cN7e40a070.jpg!q50.jpg.webp",
+      "isShow": false
+    },
+    {
+      "text": "玉米",
+      "id": "05",
+      "price": 6.50,
+      "num": 0,
+      "imgUrl": "http://m.360buyimg.com/babel/s235x235_jfs/t15343/322/745146938/391250/d3fa9ae9/5a375aa5N8fd75817.jpg!q50.jpg.webp",
+      "isShow": false
+    },
+    {
+      "text": "茄子",
+      "id": "06",
+      "price": 5.00,
+      "num": 0,
+      "imgUrl": "http://m.360buyimg.com/babel/s235x235_jfs/t2584/247/3962094410/93178/d9b541a1/57a371dbNb3fb62e7.jpg!q50.jpg.webp",
+      "isShow": false
+    },
+    {
+      "text": "土豆",
+      "id": "07",
+      "price": 3.00,
+      "num": 0,
+      "imgUrl": "http://m.360buyimg.com/babel/s235x235_jfs/t8701/306/750365438/166939/450f395a/59aeb739Nbc2dfc96.jpg!q50.jpg.webp",
+      "isShow": false
+    },
+    {
+      "text": "白菜",
+      "id": "08",
+      "price": 6.00,
+      "num": 0,
+      "imgUrl": "http://m.360buyimg.com/babel/s211x211_jfs/t4048/252/288662110/127744/931a566e/58462cd6N653980df.jpg!q50.jpg.webp",
+      "isShow": false
+    },
+    {
+      "text": "西蓝花",
+      "id": "09",
+      "price": 8.00,
+      "num": 0,
+      "imgUrl": "http://m.360buyimg.com/babel/s317x317_jfs/t3526/310/2014375487/500788/99978c40/583d31d0N4b3c83e0.jpg!q50.jpg.webp",
+      "isShow": false
+    },
+    {
+      "text": "南瓜",
+      "id": "10",
+      "price": 6.00,
+      "num": 0,
+      "imgUrl": "http://m.360buyimg.com/babel/s235x235_jfs/t6016/250/3352351495/331984/7855b134/5951aa22Ndd2f3827.jpg!q50.jpg.webp",
+      "isShow": false
+    },
+    {
+      "text": "莲藕",
+      "id": "11",
+      "price": 10.00,
+      "num": 0,
+      "imgUrl": "http://m.360buyimg.com/babel/s235x235_jfs/t8701/306/750365438/166939/450f395a/59aeb739Nbc2dfc96.jpg!q50.jpg.webp",
+      "isShow": false
+    },
+    {
+      "text": "7寸黄瓜",
+      "id": "12",
+      "price": 6.00,
+      "num": 0,
+      "imgUrl": "http://m.360buyimg.com/babel/s235x235_jfs/t2584/247/3962094410/93178/d9b541a1/57a371dbNb3fb62e7.jpg!q50.jpg.webp",
+      "isShow": false
+    }
+  ],
+  [
+    {
+      "text": "红菜",
+      "id": "01",
+      "price": 6.00,
+      "num": 0,
+      "imgUrl": "http://m.360buyimg.com/babel/s317x317_jfs/t2596/72/2171488082/85636/ac49be37/575bb0dcN71775650.jpg!q50.jpg.webp",
+      "isShow": false
+    },
+    {
+      "text": "韭菜",
+      "id": "02",
+      "price": 4.00,
+      "num": 0,
+      "imgUrl": "http://m.360buyimg.com/babel/s211x211_jfs/t3259/133/7221826977/236237/eee5ee49/58b3c6f8N79514987.jpg!q50.jpg.webp",
+      "isShow": false
+    },
+    {
+      "text": "香菜",
+      "id": "03",
+      "price": 8.00,
+      "num": 0,
+      "imgUrl": "http://m.360buyimg.com/babel/s211x211_jfs/t3241/24/5483015574/402302/6223b7ff/58737d72N3114096e.jpg!q50.jpg.webp",
+      "isShow": false
+    }
+  ]],
+  "tabList": [
+    {
+      "title": "全部商品",
+      "isShow": true
+    },
+    {
+      "title": "店主推荐",
+      "isShow": false
+    }
+  ] 
+}
